@@ -52,7 +52,6 @@ const RootLayout = async ({
           <Toaster />
         </body>
       </SessionProvider>
-      s
     </html>
   );
 };
